@@ -33,16 +33,6 @@ job-application-system/
 5. Check `config/database.php` credentials (default root / empty password).
 6. Visit `http://localhost/job-application-system/`.
 
-## Manual Testing Checklist
-- [ ] Create valid application
-- [ ] Record appears in table and DB
-- [ ] Edit record, change 2 fields
-- [ ] Updated info shows
-- [ ] Delete with confirmation
-- [ ] Deleted record gone
-- [ ] Missing/invalid input shows error
-- [ ] date_added unchanged on update
-- [ ] Empty table shows "No applications found."
 
 ## GitHub Upload
 ```
